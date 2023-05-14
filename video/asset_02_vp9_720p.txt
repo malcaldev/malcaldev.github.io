@@ -1,0 +1,55 @@
+General
+Complete name                            : asset_02_vp9_720p.webm
+Format                                   : WebM
+Format version                           : Version 2
+File size                                : 2.34 MiB
+Duration                                 : 12 s 737 ms
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 1 544 kb/s
+Encoded date                             : UTC 2023-05-13 19:50:01
+Writing application                      : HandBrake 1.5.1 2022030700
+Writing library                          : Lavf58.76.100
+
+Video
+ID                                       : 1
+Format                                   : VP9
+Codec ID                                 : V_VP9
+Duration                                 : 12 s 746 ms
+Bit rate                                 : 1 426 kb/s
+Width                                    : 1 280 pixels
+Height                                   : 720 pixels
+Display aspect ratio                     : 16:9
+Frame rate mode                          : Constant
+Frame rate                               : 29.970 (30000/1001) FPS
+Color space                              : YUV
+Bits/(Pixel*Frame)                       : 0.052
+Stream size                              : 2.17 MiB (92%)
+Default                                  : Yes
+Forced                                   : No
+Color range                              : Limited
+Color primaries                          : BT.601 PAL
+Transfer characteristics                 : BT.709
+Matrix coefficients                      : BT.709
+DURATION                                 : 00:00:12,737000000
+
+Audio
+ID                                       : 2
+Format                                   : Vorbis
+Format settings, Floor                   : 1
+Codec ID                                 : A_VORBIS
+Duration                                 : 12 s 737 ms
+Bit rate mode                            : Variable
+Bit rate                                 : 48.0 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 48.0 kHz
+Compression mode                         : Lossy
+Stream size                              : 74.6 KiB (3%)
+Title                                    : Mono
+Writing application                      : HandBrake
+Writing library                          : libVorbis (Reducing Environment) (20200704 (Reducing Environment))
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+DURATION                                 : 00:00:12,653000000
+
+
