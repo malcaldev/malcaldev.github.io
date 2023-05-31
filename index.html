@@ -184,7 +184,7 @@
 			<source src="video/asset_02_h264_high_5.1_720p.mp4" type="video/mp4">
 			<source src="video/asset_02_vp9_720p.webm" type="video/webm">
 		</video>
-	</div>div>
+	</div>
 
 	</p>
 	<p lang="ca-ES" align="justify" style="line-height: 100%; orphans: 2; widows: 2; margin-bottom: 0.08in">
@@ -192,6 +192,23 @@
 		<br />
 
 	</p>
+
+	<script>
+	function toggleVideo() {
+		var video = document.getElementById("video-q1.4");
+		if (video.style.display === "none") {
+   			 video.style.display = "block";
+  		} else {
+    		video.style.display = "none";
+  		}
+	}
+	</script>
+
+	<a href="#" id="video-q1.4" onclick="toggleVideo()">Show/Hide Video Question 1.4</a>
+	<video id="video" src="path/to/video.mp4" controls="true" width="1280" height="720">
+		<source src="video/clip01.mkv" type="video/mp4">
+	</video>
+
 </body>
 
 </html>
